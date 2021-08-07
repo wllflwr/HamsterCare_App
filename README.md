@@ -1,4 +1,4 @@
-# hamstercare
+# HamsterCare_App
  Project Mobile Apps
 
  Project Name: HamsterCare
@@ -9,7 +9,7 @@
  Fatin Hanani binti Kamis (A17CS0235)
  Hanis binti Md Mahir (A17CS0050)
 
- Synopsis: Hamster Care will provide the platform for hamster owners to share their  knowledge and pet with others. Newbies that are interested in taking care of the  hamster are welcome to the community to gain the knowledge from this application.   Hamster Care provides a discussion platform for their users to communicate with  each other and give cloud storage to save their hamster’s picture as a gallery.  
+ Synopsis: Hamster Care will provide the platform for hamster owners to share their  knowledge and pet with others. Newbies that are interested in taking care of the  hamster are welcome to the community to gain the knowledge from this application.   Hamster Care provides a discussion platform for their users to communicate with  each other and give cloud storage to save their hamsterâ€™s picture as a gallery.  
  
  Prototype 1:
 
